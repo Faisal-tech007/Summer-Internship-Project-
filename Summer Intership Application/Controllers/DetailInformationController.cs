@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Summer_Intership_Application.Implementations.Interface;
 using Summer_Intership_Application.Models;
 

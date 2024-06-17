@@ -1,6 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Summer_Intership_Application.Data;
-using Summer_Intership_Application.DTOs;
+﻿using Summer_Intership_Application.Data;
 using Summer_Intership_Application.Implementations.Interface;
 using Summer_Intership_Application.Models;
 

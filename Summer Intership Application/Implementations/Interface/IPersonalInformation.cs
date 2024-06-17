@@ -1,5 +1,4 @@
-﻿using Summer_Intership_Application.DTOs;
-using Summer_Intership_Application.Models;
+﻿using Summer_Intership_Application.Models;
 
 namespace Summer_Intership_Application.Implementations.Interface
 {
